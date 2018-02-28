@@ -1,2 +1,3 @@
-# Shaders2018
-Shaders creats per l'assignatura de mecàniques de joc avançades
+![ShadersLogo](/Other/ShadersBanner.png)
+
+**Shaders made in class for "mecàniques de joc avançades"**
